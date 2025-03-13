@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://brownsonjoy1811.github.io/social-links-profile/)
+- Live Site URL: [my social links profile](https://brownsonjoy1811.github.io/social-links-profile/)
 
 ## My process
 
